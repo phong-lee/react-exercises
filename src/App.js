@@ -4,8 +4,8 @@ import {HelloWorld, Welcome} from "./hello-world/HelloWorld";
 function App() {
   return (
     <div className="App">
-      <HelloWorld />
-      <Welcome name="Phong Lý" />
+      {/*<HelloWorld />*/}
+      {/*<Welcome name="Phong Lý" />*/}
     </div>
   );
 }
